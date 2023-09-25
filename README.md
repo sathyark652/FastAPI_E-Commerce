@@ -27,7 +27,6 @@ This is a simple E-commerce API built using FastAPI and MongoDB. It provides end
 
 - **main.py**: The main FastAPI application file containing route definitions and database connections.
 - **models.py**: Defines Pydantic models for User, Product, Item, UserAddress, and Order.
-- **requirements.txt**: Lists project dependencies.
 - **README.md**: This README file.
 
 ## Usage
@@ -41,7 +40,11 @@ http://127.0.0.1:8000/docs
 ## API Endpoints and  REST conventions followed
 
 - POST /login: Authenticate a user and generate an access token.
+  ![image](https://github.com/sathyark652/FastAPI_E-Commerce/assets/117423140/6226fb94-e0f2-49ed-8c46-e73af162118f)
+
 - POST /products: Create a new product.
+  ![image](https://github.com/sathyark652/FastAPI_E-Commerce/assets/117423140/0ffa296b-e2f7-4c21-8ffe-9e9d643b2853)
+
 - GET /products: List all available products.
 - POST /orders: Create a new order.
 - GET /orders: List orders with pagination.
