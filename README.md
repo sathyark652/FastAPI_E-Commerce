@@ -1,4 +1,6 @@
 # FastAPI_E-Commerce
+![image](https://github.com/sathyark652/FastAPI_E-Commerce/assets/117423140/eb0c4d8f-91a7-4485-9f0d-6fc28f77f32b)
+
 This is a simple E-commerce API built using FastAPI and MongoDB. It provides endpoints for managing products and orders.This API includes user authentication and offers endpoints to effortlessly create, list, and update products. It also enables order creation and pagination for order listings.
 
 ## Features
@@ -10,6 +12,8 @@ This is a simple E-commerce API built using FastAPI and MongoDB. It provides end
 - Authentication (JWT token generation) - to be implemented.
 
  ### Prerequisites and Install the required Python packages:
+ ![image](https://github.com/sathyark652/FastAPI_E-Commerce/assets/117423140/b324f77c-f08f-47c3-ab9b-0fc9d970cd51)
+
 
 - Python 3.10
 - MongoDB (running on default port 27017)
